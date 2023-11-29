@@ -51,7 +51,7 @@ and pays the energy cost.
 
 ## The Rust Code
 
-![meters python](meters-python.png "Rust implementation")
+![meters python](meters-rust.png "Rust implementation")
 
 I had been seeing a lot of hype about Rust but didn't have reason to explore it but that changed when I came across
 a project called [tui-rs](https://github.com/fdehau/tui-rs), I thought it looked awesome and
